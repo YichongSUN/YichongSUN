@@ -1,6 +1,6 @@
 # Yichong SUN
 
-> CUHK PHD student· Medical Robotics Researcher · Lifelong Learner
+> CUHK PHD Student· Medical Robotics Researcher · Lifelong Learner
 
 ---
 
