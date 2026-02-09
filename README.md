@@ -1,6 +1,6 @@
 # Yichong SUN
 
-> Developer · Tech Enthusiast · Lifelong Learner
+> CUHK PHD student· Medical Robotics Researcher · Lifelong Learner
 
 ---
 
