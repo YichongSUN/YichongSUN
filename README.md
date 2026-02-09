@@ -1,59 +1,47 @@
-<div align="center">
-  
-# 👋 Hi there, I'm Yichong SUN
+# Yichong SUN
 
-### 💻 Developer | 🚀 Tech Enthusiast | 🌱 Lifelong Learner
-
-</div>
+> Developer | Tech Enthusiast | Lifelong Learner
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
-<div align="center">
-  
-![YichongSUN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YichongSUN&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YichongSUN&show_icons=true&theme=minimal&hide_border=true&include_all_commits=true&count_private=true" alt="YichongSUN's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YichongSUN&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YichongSUN&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YichongSUN&layout=compact&theme=minimal&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Streak
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=YichongSUN&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YichongSUN&theme=minimal&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## GitHub Trophies
 
-<div align="center">
-  
-[![YichongSUN's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YichongSUN&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YichongSUN&theme=minimal&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+## Contribution Graph
 
-![Profile Views](https://komarev.com/ghpvc/?username=YichongSUN&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YichongSUN&theme=minimal&hide_border=true" alt="Activity Graph" />
+</p>
 
-</div>
+---
+
+<p align="center">
+  <em>"Science is organized knowledge." – Herbert Spencer</em>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YichongSUN&color=gray&style=flat-square" alt="Profile Views" />
+</p>
